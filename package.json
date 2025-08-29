@@ -69,5 +69,21 @@
     "tailwindcss": "^4.1.9",
     "tw-animate-css": "1.3.3",
     "typescript": "^5.9.2"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viki22uied/SEBI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viki22uied/SEBI/issues"
+  },
+  "homepage": "https://github.com/viki22uied/SEBI#readme",
+  "description": ""
 }
