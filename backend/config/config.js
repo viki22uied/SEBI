@@ -54,6 +54,12 @@ module.exports = {
   
   // CORS
   CORS_ORIGIN: process.env.CORS_ORIGIN || 'http://localhost:3000',
+  
+  // Frontend URL for email links and callbacks
+  FRONTEND_URL: process.env.FRONTEND_URL || 'http://localhost:3000',
+
+  // Admin email for notifications (optional)
+  ADMIN_EMAIL: process.env.ADMIN_EMAIL || '',
 };
 
 // Validate required environment variables
